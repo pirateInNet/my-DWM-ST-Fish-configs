@@ -1,0 +1,14 @@
+- see [](https://www.youtube.com/watch?v=RyWQmbbdvcE) to install DWM on MXLinux(Debian with XFCE)
+- see [](https://www.youtube.com/watch?v=7l9AuRU9ax4) to install DWM on Arch
+***
+
+1. you should install some programs before working with my config
+```
+nmtui rofi tty-clock
+
+fish # maybe
+```
+
+***
+
+- configure rofi on your own, my friend, enjoy

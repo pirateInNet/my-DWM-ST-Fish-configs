@@ -1,0 +1,12 @@
+- that config is from [](https://github.com/mrdotx/st)
+
+***
+
+1. i replaced the first 16 entries in colorname[] and indices 256–258 to **alacritty_0_12 theme**
+
+2. i use `Monospace-12`, it looks way much better
+
+3. just go to the line 259 in *config.h*, & you will find all shortcuts
+
+4. & remember that nothing is perfect, so, don't waste time on **the perfect config**
+
